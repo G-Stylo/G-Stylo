@@ -1,9 +1,10 @@
-# Hi, I'm Kodee
+# Always learning. Always improving.
 
 I'm a high school student passionate about cs, competitive programming, and hardware development. I enjoy building projects that combine algorithms and math while continually expanding my understanding of computer science as a whole.
 
 ## About Me
 
+- President of the SDHS Computer Science Club
 - Interested in competitive programming, software engineering, and systems programming, as well as real-world hardware
 - Enjoy building projects involving algorithms, simulations, and mathematics
 - Always learning new tech and cs concepts
@@ -22,6 +23,9 @@ I'm a high school student passionate about cs, competitive programming, and hard
 - Javascript
 - Python
 - React
+- HTML
+- CSS
+- KiCAD
 
 ## Connect
 
