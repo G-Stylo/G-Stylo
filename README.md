@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kodee
 
-<!--
-**G-Stylo/G-Stylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student passionate about computer science, competitive programming, and software engineering. I enjoy building projects that combine algorithms, mathematics, and real-world problem solving while continually expanding my understanding of computer science.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in competitive programming, software engineering, and systems programming
+- Enjoy building projects involving algorithms, simulations, and mathematical modeling
+- Currently developing an astrophysics simulation
+- Always learning new technologies and computer science concepts
+
+## Current Focus
+
+- Competitive programming (USACO & Codeforces)
+- Data Structures & Algorithms
+- Software engineering projects
+- Open-source contributions
+
+## Languages & Tools
+
+- C++
+- Java
+- Python
+- Git
+- GitHub
+
+## Connect
+
+Feel free to explore my repositories or reach out if you'd like to collaborate on a project or discuss computer science.
