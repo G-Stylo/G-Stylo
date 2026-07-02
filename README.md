@@ -1,13 +1,12 @@
 # Hi, I'm Kodee
 
-I'm a high school student passionate about computer science, competitive programming, and software engineering. I enjoy building projects that combine algorithms, mathematics, and real-world problem solving while continually expanding my understanding of computer science.
+I'm a high school student passionate about cs, competitive programming, and hardware development. I enjoy building projects that combine algorithms and math while continually expanding my understanding of computer science as a whole.
 
 ## About Me
 
-- Interested in competitive programming, software engineering, and systems programming
-- Enjoy building projects involving algorithms, simulations, and mathematical modeling
-- Currently developing an astrophysics simulation
-- Always learning new technologies and computer science concepts
+- Interested in competitive programming, software engineering, and systems programming, as well as real-world hardware
+- Enjoy building projects involving algorithms, simulations, and mathematics
+- Always learning new tech and cs concepts
 
 ## Current Focus
 
@@ -20,10 +19,10 @@ I'm a high school student passionate about computer science, competitive program
 
 - C++
 - Java
+- Javascript
 - Python
-- Git
-- GitHub
+- React
 
 ## Connect
 
-Feel free to explore my repositories or reach out if you'd like to collaborate on a project or discuss computer science.
+Feel free to reach out if you'd like to collaborate on a project or discuss cs!
