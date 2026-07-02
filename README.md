@@ -26,6 +26,7 @@ I'm a high school student passionate about cs, competitive programming, and hard
 - HTML
 - CSS
 - KiCAD
+- Arduino
 
 ## Connect
 
