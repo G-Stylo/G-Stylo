@@ -23,7 +23,7 @@ I'm a high school student passionate about cs, competitive programming, and hard
 - Javascript
 - Python
 - React
-- HTML
+- Typescript
 - CSS
 - KiCAD
 - Arduino
