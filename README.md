@@ -1,4 +1,4 @@
-# Always learning. Always improving.
+# Occasionally builds things
 
 I'm a high school student passionate about cs, competitive programming, and hardware development. I enjoy building projects that combine algorithms and math while continually expanding my understanding of computer science as a whole.
 
