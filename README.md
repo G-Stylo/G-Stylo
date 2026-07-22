@@ -28,6 +28,5 @@ I'm a high school student passionate about cs, competitive programming, and hard
 - KiCAD
 - Arduino
 
-## Connect
 
 Feel free to reach out if you'd like to collaborate on a project or discuss cs!
